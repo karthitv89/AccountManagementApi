@@ -1,0 +1,24 @@
+[{
+  "submittedBy": "Tom",
+  "submittedDate" : "2020-05-12T11:00:10",
+  "status" : "approved",
+  "accountNumber" : "2000123458"
+},
+  {
+    "submittedBy": "Tom",
+    "submittedDate" : "2020-05-13T11:00:10",
+    "status" : "rejected",
+    "accountNumber" : "1000123457"
+  },
+  {
+    "submittedBy": "Tom",
+    "submittedDate" : "2020-05-14T11:00:10",
+    "status" : "pending",
+    "accountNumber" : "6000123462"
+  },
+  {
+    "submittedBy": "Tom",
+    "submittedDate" : "2020-05-15T11:00:10",
+    "status" : "canceled",
+    "accountNumber" : "6000123463"
+  }]
